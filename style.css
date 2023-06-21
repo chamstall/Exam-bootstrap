@@ -1,0 +1,60 @@
+.hstack .bouton-2{
+    margin-left: 80px;
+}
+.hstack .bouton-3{
+    margin-left: 150px;
+}
+.hstack .bouton-4{
+    margin-left: 180px;
+}
+.hstack .bouton-5{
+    margin-left: 220px;
+}
+@media(max-width:410px){
+    .hstack .bouton-2{
+        margin-left: 60px;
+    }
+    .hstack .bouton-3{
+        margin-left: 93px;
+    }
+    .hstack .bouton-4{
+        margin-left: 110px;
+    }
+    .hstack .bouton-5{
+        margin-left: 150px;
+    }
+}
+@media(max-width:410px){
+    .hstack .bouton-2{
+        margin-left: 50px;
+    }
+    .hstack .bouton-3{
+        margin-left: 88px;
+    }
+    .hstack .bouton-4{
+        margin-left: 100px;
+    }
+    .hstack .bouton-5{
+        margin-left: 130px;
+    }
+}
+.row-3-card-1{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.row-3-card-2{
+    border-radius: 0;
+}
+.row-3-card-3{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.premier-prize , .quatrieme-prize{
+    margin-left: 20px;
+}
+.deuxieme-prize ,.cinquieme-prize{
+    margin-left: 60px;
+}
+.troisieme-prize , .sixieme-prize{
+    margin-left: 80px;
+}
